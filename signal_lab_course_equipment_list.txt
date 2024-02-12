@@ -1,0 +1,40 @@
+﻿    • Measurement Instruments
+        ◦ A XRF, infrared or UV scintillator (2nd hand from Ebay; at maximum 20 years old). A scintillator can be negative voltage power supply or positive voltage power supply.
+        ◦ An adjustable Spellman 1500V/ 3000V 20mA safety-transformer matching the scintillator voltage and polarity (2nd hand, if available).
+        ◦ A 12V/ 24V power supply/ battery for the Spellman safety-transformer.
+        ◦ A 200 MHZ 2-channel digital oscilloscope with matching probes.
+    • Electric/ Electronic Parts
+        ◦ A groundless metal XRF radiation box widening from the top to the bottom containing: 
+            ▪ A fast discharging (foil) capacitor 1500V/ 3000V; 2 HV relays; a damaged old-school light bulb with a dead-end glow-wire; a frequency distributing reflector out of 3 layers of fine leash wire net, a holed alu grill dish and a profiled 10mm metal plate; a plastic ground box filled up with 10 cm of small stone chippings; native wood profiles for apparatus scaffolding and box chassis.
+        ◦ Otherwise a broad spectrum infrared lamp/ a broad spectrum UV lamp.
+        ◦ Electrical wires (2-pole and 3-pole; the simple white quality is good enough).
+        ◦ Electrical plugs (2-pole and 3-pole). 
+        ◦ 3m non-isolated wire 0.5 mm2.
+        ◦ Electrical connectors.
+        ◦ Isolation tape (the simple white textile quality is sufficient).
+            ▪ Extension power sockets (some with surge protection/ noise filter).
+    • General Tools and Material
+            ▪ A drills set.
+        ◦ A drilling machine (maybe battery powered).
+        ◦ An electrical screw driver set.
+        ◦ A fine mechanics screw driver set.
+        ◦ A stainless steel screw and nut set.
+        ◦ Industrial glue (on cyan acrylate basis) plus corresponding granulate.
+    • Cleaning Agents
+        ◦ Scour milk and plastic scour pads.
+        ◦ Calcium carbonate powder/ tablets.
+        ◦ Active oxygen (bleaching) agent. (Against heavy colored mud; do not combine with ignitable cleaning substances.)
+        ◦ Distilled water. (Discount workaround for some purposes: Deep spring water.)
+        ◦ Label glue remover.
+        ◦ Alcohol 90%+.
+        ◦ Car screen washers cleaning supplement.
+    • Personal Safety Equipment
+        ◦ Working overalls (simple gray cotton textile is fine).
+        ◦ Safety glasses. 
+        ◦ Safety earplugs.
+        ◦ Hand-gloves (one pair out of latex/ rubber, another pair out of cotton).
+        ◦ Safety shoes (A pair of summer sneakers with a thick soil is a comfortable to wear base protection against electrical charges, when combining with a safety carpet).
+        ◦ [Optionally FFP2 masks. (Preferably a comfortable version with clips to wear around the neck.)]
+        ◦ [Optionally a clean room hair cover. (Discount workaround: A thin cap or a motor-bike under-cap.)]
+        ◦ [Optionally sun cream for out-door lab in summer. (A cheap children sun cream should work it.)]
+        ◦ [Optionally maybe also a portable auxiliary bed, when working till late hours/ over night in the lab. (This usually requires an upfront permit in an external lab.)]
